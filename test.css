@@ -3,3 +3,8 @@ h1 {
   font-weight: bold;
   color: blue;
 }
+
+p {
+  font-size: 2em;
+  border: 1px solid #ff0000;
+}
